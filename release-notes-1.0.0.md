@@ -5,4 +5,6 @@ ${version-number}
 
 #### New Features
 
+- Tomcat 10.1.41
+
 #### Known Issues
