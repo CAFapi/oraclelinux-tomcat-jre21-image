@@ -190,7 +190,7 @@
                         <image>
                             <repository>${dockerHubPublic}/cafapi/oraclelinux-jre21</repository>
                             <tag>1.2.0</tag>
-                            <!-- <digest>sha256:59810121fb7d72f01c76579277ea21719e3ef8fc607c49dbf0e6d635a93b285c</digest> -->
+                            <digest>sha256:f7ed6ed0caa4b51c04bebf83bb381c796fb319b923dd68d88f873f8c03f3f353</digest>
                         </image>
                         <image>
                             <repository>${dockerHubPublic}/library/oraclelinux</repository>
