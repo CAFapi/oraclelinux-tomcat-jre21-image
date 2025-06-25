@@ -23,7 +23,7 @@
 
     <groupId>com.github.cafapi</groupId>
     <artifactId>oraclelinux-tomcat-jre21-image-aggregator</artifactId>
-    <version>1.0.1-SNAPSHOT</version>
+    <version>1.1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Oracle Linux Tomcat JRE 21 image Aggregator</name>
@@ -100,7 +100,7 @@
             <dependency>
                 <groupId>com.github.cafapi</groupId>
                 <artifactId>caf-logging-tomcat-juli</artifactId>
-                <version>1.0.1-SNAPSHOT</version>
+                <version>1.1.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.github.cafapi.logging</groupId>
@@ -189,8 +189,8 @@
                     <imageManagement>
                         <image>
                             <repository>${dockerHubPublic}/cafapi/oraclelinux-jre21</repository>
-                            <tag>1.2.1</tag>
-                            <digest>sha256:7961754a49d5baa4be13259c0f21af5019c4e976a03806d6174e037352acbe55</digest>
+                            <tag>1.2.3</tag>
+                            <digest>sha256:c1d44a6b759aa5ae43d5eda8f380a029938208ac553728a3958707ab1ff93c9c</digest>
                         </image>
                         <image>
                             <repository>${dockerHubPublic}/library/oraclelinux</repository>
