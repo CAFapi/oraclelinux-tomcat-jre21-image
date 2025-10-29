@@ -189,8 +189,8 @@
                     <imageManagement>
                         <image>
                             <repository>${dockerHubPublic}/cafapi/oraclelinux-jre21</repository>
-                            <tag>1.4.1</tag>
-                            <digest>sha256:645019f43cae26eaed8ad8fb9084f632e38f118e16a69c60673c7b6d1ac2b979</digest>
+                            <tag>1.4.2</tag>
+                            <digest>sha256:668eb96fb0948b95a27104e42c9e26f16fe1f50fdea31b0adf249750e2faf967</digest>
                         </image>
                         <image>
                             <repository>${dockerHubPublic}/library/oraclelinux</repository>
