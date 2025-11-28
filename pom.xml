@@ -23,7 +23,7 @@
 
     <groupId>com.github.cafapi</groupId>
     <artifactId>oraclelinux-tomcat-jre21-image-aggregator</artifactId>
-    <version>1.2.5-SNAPSHOT</version>
+    <version>2.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <name>Oracle Linux Tomcat JRE 21 image Aggregator</name>
@@ -100,7 +100,7 @@
             <dependency>
                 <groupId>com.github.cafapi</groupId>
                 <artifactId>caf-logging-tomcat-juli</artifactId>
-                <version>1.2.5-SNAPSHOT</version>
+                <version>2.0.0-SNAPSHOT</version>
             </dependency>
             <dependency>
                 <groupId>com.github.cafapi.logging</groupId>
