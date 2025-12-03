@@ -190,7 +190,7 @@
                         <image>
                             <targetRepository>cafapi/oraclelinux-jre21</targetRepository>
                             <repository>${dockerHubPublic}/cafapi/prereleases</repository>
-                            <tag>oraclelinux-jre21-2.1.0-US1059166-SNAPSHOT</tag>
+                            <tag>oraclelinux-jre21-2.1.0-SNAPSHOT</tag>
                         </image>
                         <image>
                             <repository>${dockerHubPublic}/library/oraclelinux</repository>
