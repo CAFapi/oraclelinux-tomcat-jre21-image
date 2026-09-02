@@ -21,7 +21,7 @@
     <parent>
         <groupId>com.github.cafapi</groupId>
         <artifactId>oraclelinux-tomcat-images-aggregator</artifactId>
-        <version>3.0.8-SNAPSHOT</version>
+        <version>3.0.8-41</version>
     </parent>
     <artifactId>oraclelinux-tomcat-juli-images</artifactId>
     <packaging>pom</packaging>
