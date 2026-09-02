@@ -143,7 +143,7 @@
             <dependency>
                 <groupId>org.apache.tomcat</groupId>
                 <artifactId>tomcat-juli</artifactId>
-                <version>11.0.24</version>
+                <version>11.0.25</version>
             </dependency>
             <dependency>
                 <groupId>org.slf4j</groupId>
@@ -193,13 +193,13 @@
                     <imageManagement>
                         <image>
                             <repository>${dockerHubPublic}/cafapi/oraclelinux-jre21</repository>
-                            <tag>2.3.1</tag>
-                            <digest>sha256:a64a2d084009d0302e49ef5efc5db00b9446fae848b1ce67d6d5b0e60e0e1ed4</digest>
+                            <tag>2.3.2</tag>
+                            <digest>sha256:1f74e51e8bcd788a116588a005db4c4804db08d47f73fc905a10f8711be947d9</digest>
                         </image>
                         <image>
                             <repository>${dockerHubPublic}/cafapi/oraclelinux-jre25</repository>
-                            <tag>2.3.1</tag>
-                            <digest>sha256:f6a0d7fd52b263c5d5e7c718ae43a3f3fc3808964d734e5eb766878a048be3f4</digest>
+                            <tag>2.3.2</tag>
+                            <digest>sha256:fc242993b2599c625eea014063540012f6f640a8b45f90eecf5cc77720ce6f86</digest>
                         </image>
                         <image>
                             <repository>${dockerHubPublic}/library/oraclelinux</repository>
